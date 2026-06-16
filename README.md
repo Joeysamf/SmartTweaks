@@ -5,6 +5,7 @@ A rig mod for DonutSMP. Press O to open the Rigging menu.
 ## Recent
 
 **Check releases for the latest version of the mod**
+https://github.com/Joeysamf/SmartTweaks/releases
 
 
 ## Building
