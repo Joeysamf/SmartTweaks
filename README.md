@@ -2,6 +2,11 @@
 
 A rig mod for DonutSMP. Press O to open the Rigging menu.
 
+## Recent
+
+**Check releases for the latest version of the mod**
+
+
 ## Building
 
 Requires Java 21+.
