@@ -22,4 +22,4 @@ The JAR will be in `build/libs/`.
 
 1. Place `SmartTweaks-1.21.11.jar` in your `mods/` folder
 2. Press **O** in-game
-3. Config auto-generated at `config/paymod.json`
+3. Config auto-generated at `config/rigmod.json`
