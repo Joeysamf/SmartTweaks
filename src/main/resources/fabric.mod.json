@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "paymod",
+  "version": "${version}",
+  "name": "SmartTweaks",
+  "description": "A rig mod for DonutSMP. Press O to open the Rigging menu.",
+  "authors": [
+    "mrcookie7442"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/paymod/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.donutsmp.paymod.PayModClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.18.2",
+    "minecraft": ">=1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
